@@ -11,4 +11,4 @@ function rollBetterDie(numSides = 6) {
   return Math.floor(Math.random() * numSides) + 1;
 }
 
-// - in the rollBetterDie the defauůt value is 6.
+// - in the rollBetterDie the default value is 6.
